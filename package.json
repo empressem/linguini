@@ -1,0 +1,12 @@
+{
+  "name": "linguini",
+  "version": "0.0.0",
+  "description": "For this code challenge, you're being asked to build out the text translation app Linguini from scratch. It is a single page app that translates an arbitrary text block into a language that the user chooses. Language translation happens entirely in the browser (the client is really insistent on this point, for some reason).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
